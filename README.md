@@ -17,7 +17,8 @@ The agent integrates multiple components to create a fully autonomous workflow:
 3. 📬 Sends tailored messages automatically via Gmail  
 4. 🔄 Updates records and manages the communication lifecycle
 
-https://github.com/SabinAdhikarii/n8n-email-automation/blob/main/Screenshot%202025-12-16%20000853.png 
+## 📸 Workflow Diagram
+![Workflow of n8n](Screenshot%202025-12-16%20000853.png)
 
 ## 📖 Learning Outcomes
 - Learned how to structure workflows step by step in n8n  
