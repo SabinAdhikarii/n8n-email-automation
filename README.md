@@ -15,7 +15,9 @@ The agent integrates multiple components to create a fully autonomous workflow:
 1. 📊 Pulls client data directly from Google Sheets  
 2. ✨ Uses AI/JavaScript logic to generate personalized email content  
 3. 📬 Sends tailored messages automatically via Gmail  
-4. 🔄 Updates records and manages the communication lifecycle  
+4. 🔄 Updates records and manages the communication lifecycle
+
+https://github.com/SabinAdhikarii/n8n-email-automation/blob/main/Screenshot%202025-12-16%20000853.png 
 
 ## 📖 Learning Outcomes
 - Learned how to structure workflows step by step in n8n  
