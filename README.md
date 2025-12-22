@@ -18,7 +18,7 @@ The agent integrates multiple components to create a fully autonomous workflow:
 4. 🔄 Updates records and manages the communication lifecycle
 
 ## 📸 Workflow Diagram
-![Workflow of n8n](Screenshot%202025-12-16%20000853.png)
+![Workflow of n8n](Workflow-of-email-automation.png)
 
 ## 📖 Learning Outcomes
 - Learned how to structure workflows step by step in n8n  
