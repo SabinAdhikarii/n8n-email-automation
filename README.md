@@ -36,6 +36,17 @@ The agent integrates multiple components to create a fully autonomous workflow:
 
 ---
 
-### ✍️ Author
-Created by **Sabin Adhikarii** ("https://github.com/SabinAdhikarii") as part of a personal learning journey in AI and workflow automation.  
-Feedback and suggestions are always welcome!
+## 👤 Author
+
+**SabinAdhikari**  
+GitHub: [SabinAdhikarii](https://github.com/SabinAdhikarii)
+
+---
+
+## 📞 Support
+
+For questions or issues, please contact me at sabinofficial99@gmail.com).
+
+---
+
+**Last Updated:** December 2025
