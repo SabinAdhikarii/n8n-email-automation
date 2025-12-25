@@ -25,9 +25,6 @@ The agent integrates multiple components to create a fully autonomous workflow:
 - Understood how to merge automation with custom code  
 - Gained insights into scalability, personalization, and tracking in client communication  
 
-## 📸 Workflow Diagram
-*(Insert screenshot of your workflow here for visual context)*
-
 ## 🔮 Future Improvements
 - Add retry logic for failed sends  
 - Integrate analytics (open/click tracking)  
